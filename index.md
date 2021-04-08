@@ -3,7 +3,7 @@
 ## 完成項目
 #### Flow (Syncobox)
 
-- ✅ &nbsp;&nbsp;新增SetValue Step (Form)、GetValue Step (Form)
+- ✅ &nbsp;&nbsp;新增SetValue Step (Form)、GetValue Step (Form)、Terminate Step
 - ✅ &nbsp;&nbsp;修改流水號功能(從最小數字遞補)
 - ✅ &nbsp;&nbsp;新增改變Step顯示名稱(同步修改StepName)
 - ✅ &nbsp;&nbsp;優化插入Step功能( NextStepId 與 Design.startTaskId 自動修正)
