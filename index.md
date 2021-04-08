@@ -1,7 +1,7 @@
 ## 2021/4/8
 
 ### 完成項目
-### Flow (Syncobox)
+#### Flow (Syncobox)
 
 - ✅ &nbsp;&nbsp;新增SetValue Step (Form)、GetValue Step (Form)
 - ✅ &nbsp;&nbsp;修改流水號功能(從最小數字遞補)
@@ -11,13 +11,13 @@
 
 
 ### 待辦項目
-### Flow (Syncobox)
+#### Flow (Syncobox)
 
 - ⬜️ &nbsp;&nbsp;新版插入變數方式與型別判斷(50%)
 - ⬜️ &nbsp;&nbsp;移動既有 Step的功能
 - ⬜️ &nbsp;&nbsp;優化 Step Inputs Expression
 
-### Markup (WeBIMSync)
+#### Markup (WeBIMSync)
 
 - ⬜️ &nbsp;&nbsp;Loading機制 (Dialog Show -> Loading)
 - ⬜️ &nbsp;&nbsp;Markup Viewer切換上下張的優化
