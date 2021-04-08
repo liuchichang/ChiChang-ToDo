@@ -13,9 +13,10 @@
 ### [待辦項目]
 #### Flow (Syncobox)
 
-- ⬜️ &nbsp;&nbsp;新版插入變數方式與型別判斷(50%)
+- ⬜️ &nbsp;&nbsp;插入變數方式與型別判斷(50%)
 - ⬜️ &nbsp;&nbsp;移動既有 Step位置的功能
 - ⬜️ &nbsp;&nbsp;優化 Step Inputs Expression
+- ⬜️ &nbsp;&nbsp;Step的版本機制
 
 #### Markup (WeBIMSync)
 
