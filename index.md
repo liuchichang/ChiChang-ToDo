@@ -13,7 +13,7 @@
 ## 待辦項目
 #### Flow (Syncobox)
 
-- ⬜️ &nbsp;&nbsp;插入變數方式與型別判斷(50%)
+- ⬜️ &nbsp;&nbsp;插入變數方式與型別判斷(50%) (剩下email的body)
 - ⬜️ &nbsp;&nbsp;預防變更StepName重複的問題
 - ⬜️ &nbsp;&nbsp;刪除前面的Step，後方Step引用資料是否有效的檢查機制
 - ⬜️ &nbsp;&nbsp;移動既有 Step位置的功能
