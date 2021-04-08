@@ -1,6 +1,6 @@
-## 2021/4/8
+# 2021/4/8
 
-### [完成項目]
+## 完成項目
 #### Flow (Syncobox)
 
 - ✅ &nbsp;&nbsp;新增SetValue Step (Form)、GetValue Step (Form)
@@ -10,7 +10,7 @@
 - ✅ &nbsp;&nbsp; [Static Web](https://ashy-sea-0b1e0bb00.azurestaticapps.net/) 建立 (感謝柏硯、易修、軒竹協助)
 
 
-### [待辦項目]
+## 待辦項目
 #### Flow (Syncobox)
 
 - ⬜️ &nbsp;&nbsp;插入變數方式與型別判斷(50%)
