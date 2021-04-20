@@ -1,4 +1,4 @@
-# 2021/4/15
+# 2021/4/22
 
 ## 完成項目
 #### Flow (Syncobox)
@@ -6,22 +6,34 @@
 - ✅ &nbsp;&nbsp;SetValue(Form) Step的{key:value}支援變數功能
 - ✅ &nbsp;&nbsp;預防變更StepName重複的問題
 - ✅ &nbsp;&nbsp;插入變數方式與型別判斷
-- ⬜️ &nbsp;&nbsp;刪除前面的Step，後方Step引用資料是否有效的檢查機制
 
+#### Markup (WeBIMSync)
+
+- ✅ &nbsp;&nbsp;Loading機制 (Dialog Show -> Loading)
+- ✅ &nbsp;&nbsp;Markup Viewer切換上下張的功能優化
+- ✅ &nbsp;&nbsp;「No Image」的預設顯示圖片統一
+
+#### WeBIMSync官方網站
+
+- ✅ &nbsp;&nbsp;語言切換按鈕
+- ✅ &nbsp;&nbsp;中英文版網站樣式調整與內容更新
 
 ## 待辦項目
 #### Flow (Syncobox)
 
+- ⬜️ &nbsp;&nbsp;刪除前面的Step，後方Step引用資料是否有效的檢查機制
 - ⬜️ &nbsp;&nbsp;移動既有 Step位置的功能
 - ⬜️ &nbsp;&nbsp;優化 Step Inputs Expression
 - ⬜️ &nbsp;&nbsp;Step的版本機制
 
 #### Markup (WeBIMSync)
 
-- ⬜️ &nbsp;&nbsp;Loading機制 (Dialog Show -> Loading)
-- ⬜️ &nbsp;&nbsp;Markup Viewer切換上下張的優化
-- ⬜️ &nbsp;&nbsp;「No Image」的預設顯示圖片統一
+- ⬜️ &nbsp;&nbsp;Makrup Shared-api 更新
+- ⬜️ &nbsp;&nbsp;Makrup Shared-ui 更新
+- 
+# 2021/4/22
 
+#### 休假
 
 # 2021/4/8
 
