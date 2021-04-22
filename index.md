@@ -4,6 +4,7 @@
 #### Flow (Syncobox)
 
 - ✅ &nbsp;&nbsp;step引用的變數異動檢查機制
+- - ✅ &nbsp;&nbsp;新增JSON editor傳送執行flow的data
 - ✅ &nbsp;&nbsp;SetValue(Form) Step的{key:value}支援變數功能
 - ✅ &nbsp;&nbsp;預防變更StepName重複的問題
 - ✅ &nbsp;&nbsp;插入變數方式與型別判斷
