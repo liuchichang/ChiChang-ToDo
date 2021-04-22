@@ -25,6 +25,7 @@
 ## 待辦項目
 #### Flow (Syncobox)
 
+- ⬜️ &nbsp;&nbsp;Approval頁面設計
 - ⬜️ &nbsp;&nbsp;發布穩定版至靜態網站
 - ⬜️ &nbsp;&nbsp;＊移動既有 Step位置的功能
 - ⬜️ &nbsp;&nbsp;＊Step的版本機制
