@@ -24,14 +24,12 @@
 ## 待辦項目
 #### Flow (Syncobox)
 
-- ⬜️ &nbsp;&nbsp;變數變更檢核機制：刪除前面的Step，後方Step引用資料是否有效的檢查機制
-- ⬜️ &nbsp;&nbsp;移動既有 Step位置的功能
-- ⬜️ &nbsp;&nbsp;優化 Step Inputs Expression
-- ⬜️ &nbsp;&nbsp;Step的版本機制
+- ⬜️ &nbsp;&nbsp;發布穩定版至靜態網站
+- ⬜️ &nbsp;&nbsp;＊移動既有 Step位置的功能
+- ⬜️ &nbsp;&nbsp;＊Step的版本機制
 
 #### Markup (WeBIMSync)
 
-- ⬜️ &nbsp;&nbsp;Makrup Shared-api 更新
 - ⬜️ &nbsp;&nbsp;Makrup Shared-ui 更新
 
 # 2021/4/15
