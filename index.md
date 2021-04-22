@@ -3,15 +3,18 @@
 ## 完成項目
 #### Flow (Syncobox)
 
+- ✅ &nbsp;&nbsp;step引用的變數異動檢查機制
 - ✅ &nbsp;&nbsp;SetValue(Form) Step的{key:value}支援變數功能
 - ✅ &nbsp;&nbsp;預防變更StepName重複的問題
 - ✅ &nbsp;&nbsp;插入變數方式與型別判斷
 
 #### Markup (WeBIMSync)
 
-- ✅ &nbsp;&nbsp;Loading機制 (Dialog Show -> Loading)
+- ✅ &nbsp;&nbsp;Markup Viewer有現場照片的瀏覽功能
 - ✅ &nbsp;&nbsp;Markup Viewer切換上下張的功能優化
+- ✅ &nbsp;&nbsp;Loading機制 (Dialog Show -> Loading)
 - ✅ &nbsp;&nbsp;「No Image」的預設顯示圖片統一
+- ✅ &nbsp;&nbsp;Makrup Shared-api 更新
 
 #### WeBIMSync官方網站
 
