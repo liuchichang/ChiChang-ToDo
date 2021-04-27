@@ -3,24 +3,21 @@
 ## 完成項目
 #### Flow (Syncobox)
 
+- ✅ &nbsp;&nbsp;Approval頁面設計
+- ✅ &nbsp;&nbsp;單元測試
 - ⬜️ &nbsp;&nbsp;step引用的變數異動檢查機制
 - ⬜️ &nbsp;&nbsp;Definition Version可執行限制(討論)
 
 #### Markup (WeBIMSync)
 
-- ⬜️ &nbsp;&nbsp;Viewer的對照模式產生顯示錯誤
-- ⬜️ &nbsp;&nbsp;Makrup Shared-ui 更新
+- ✅ &nbsp;&nbsp;Viewer的對照模式產生顯示錯誤
 
 ## 待辦項目
 #### Flow (Syncobox)
 
-- ⬜️ &nbsp;&nbsp;Approval頁面設計
 - ⬜️ &nbsp;&nbsp;發布穩定版至靜態網站
 - ⬜️ &nbsp;&nbsp;＊移動既有 Step位置的功能
 - ⬜️ &nbsp;&nbsp;＊Step的版本機制
-
-#### Markup (WeBIMSync)
-
 
 
 # 2021/4/22
