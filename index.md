@@ -5,7 +5,7 @@
 
 - ✅ &nbsp;&nbsp;Approval頁面設計
 - ✅ &nbsp;&nbsp;單元測試
-- ⬜️ &nbsp;&nbsp;step引用的變數異動檢查機制
+- ✅ &nbsp;&nbsp;step引用的變數異動檢查機制
 - ⬜️ &nbsp;&nbsp;Definition Version可執行限制(討論)
 
 #### Markup (WeBIMSync)
