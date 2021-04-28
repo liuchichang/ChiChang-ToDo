@@ -6,6 +6,7 @@
 - ✅ &nbsp;&nbsp;Approval頁面設計
 - ✅ &nbsp;&nbsp;單元測試
 - ✅ &nbsp;&nbsp;step引用的變數異動檢查機制
+- ✅ &nbsp;&nbsp;Shared-Flow專案資料夾結構與程式碼整理(維護優化)
 - ⬜️ &nbsp;&nbsp;Definition Version可執行限制(討論)
 
 #### Markup (WeBIMSync)
