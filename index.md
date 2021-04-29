@@ -7,7 +7,6 @@
 - ✅ &nbsp;&nbsp;單元測試
 - ✅ &nbsp;&nbsp;step引用的變數異動檢查機制
 - ✅ &nbsp;&nbsp;Shared-Flow專案資料夾結構與程式碼整理(維護優化)
-- ⬜️ &nbsp;&nbsp;Definition Version可執行限制(討論)
 
 #### Markup (WeBIMSync)
 
@@ -17,7 +16,7 @@
 ## 待辦項目
 #### Flow (Syncobox)
 
-- ⬜️ &nbsp;&nbsp;發布穩定版至靜態網站
+- ⬜️ &nbsp;&nbsp;Definition Version可執行限制(討論)
 - ⬜️ &nbsp;&nbsp;＊移動既有 Step位置的功能
 - ⬜️ &nbsp;&nbsp;＊Step的版本機制
 
