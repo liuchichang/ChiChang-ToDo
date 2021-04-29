@@ -11,7 +11,7 @@
 
 #### Markup (WeBIMSync)
 
-- ✅ &nbsp;&nbsp;Viewer的對照模式產生顯示錯誤
+- ✅ &nbsp;&nbsp;Viewer的對照模式產生顯示錯誤 & 各種優化與Bug排除
 - ✅ &nbsp;&nbsp;Makrup Shared-ui 更新
 
 ## 待辦項目
