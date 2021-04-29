@@ -18,7 +18,7 @@
 
 - ⬜️ &nbsp;&nbsp;Approval頁面設計:表格那頁的簽核狀態改成流程狀態、人名的chip顏色改變、未簽核的icon改掉
 - ⬜️ &nbsp;&nbsp;Definition Version可執行限制(討論)
-- ⬜️ &nbsp;&nbsp;＊移動既有 Step位置的功能(無法加到StartStep之下、drap拖移時頁面要自動往下scroll)
+- ⬜️ &nbsp;&nbsp;＊移動既有 Step位置的功能(step的nextStepId與Design.startTaskId更改、drap拖移時頁面要自動往下scroll)
 - ⬜️ &nbsp;&nbsp;＊Step的版本機制
 
 
