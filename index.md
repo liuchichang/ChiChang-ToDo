@@ -3,7 +3,7 @@
 ## 完成項目
 #### Flow (Syncobox)
 - ✅ &nbsp;&nbsp;Approval頁面設計:表格那頁的簽核狀態改成流程狀態、人名的chip顏色改變、未簽核的icon改掉
-- ✅ &nbsp;&nbsp;＊移動既有 Step位置的功能
+- ✅ &nbsp;&nbsp;移動既有 Step位置的功能
 
 
 ## 待辦項目
