@@ -6,6 +6,8 @@
 - ✅ &nbsp;&nbsp;移動既有 Step位置的功能
 - ✅ &nbsp;&nbsp;Step菜單樣式調整 => 縮小，可容納更多step
 
+#### Others
+- ✅ &nbsp;&nbsp;調整 syncobox-style.css 內容，修正vuetify input行高問題
 
 ## 待辦項目
 #### Flow (Syncobox)
