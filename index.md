@@ -4,6 +4,7 @@
 #### Flow (Syncobox)
 - ✅ &nbsp;&nbsp;Approval頁面設計:表格那頁的簽核狀態改成流程狀態、人名的chip顏色改變、未簽核的icon改掉
 - ✅ &nbsp;&nbsp;Approval頁面:調整css
+- ✅ &nbsp;&nbsp;執行Flow的參數輸入功能與確認步驟
 - ✅ &nbsp;&nbsp;移動既有 Step位置的功能
 - ✅ &nbsp;&nbsp;Step菜單樣式調整 => 縮小，可容納更多step
 
