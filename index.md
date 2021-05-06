@@ -16,6 +16,10 @@
 - ⬜️ &nbsp;&nbsp;Definition Version可執行限制(討論)
 - ⬜️ &nbsp;&nbsp;＊Step的版本機制
 
+- ⬜️ &nbsp;&nbsp;執行Flow參數輸入的防呆機制
+- ⬜️ &nbsp;&nbsp;增加Approval Step的設定參數：申請人欄位
+- ⬜️ &nbsp;&nbsp;Syncobox Main Page的陰影太多，是否扁平化設計？
+
 
 # 2021/4/29
 
