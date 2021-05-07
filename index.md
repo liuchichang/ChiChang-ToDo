@@ -7,6 +7,7 @@
 - ⬜️ &nbsp;&nbsp;Syncobox Main Page的陰影太多，是否扁平化設計？
 - ⬜️ &nbsp;&nbsp;step引用的變數異動檢查機制(全部step完成)
 - ⬜️ &nbsp;&nbsp;發布flow至portal
+- ⬜️ &nbsp;&nbsp;flow管理頁面表格-detail grid的下一頁控制欄
 
 
 # 2021/5/7
