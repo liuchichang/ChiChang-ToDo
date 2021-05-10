@@ -8,6 +8,7 @@
 - ⬜️ &nbsp;&nbsp;(bug)插入step後的藍色選取框會停留在原地
 - ⬜️ &nbsp;&nbsp;Syncobox Main Page的陰影太多，是否扁平化設計？
 - ⬜️ &nbsp;&nbsp;發布flow至portal
+- ⬜️ &nbsp;&nbsp;新增step的時候會出現 "TypeError: Cannot read property 'Id' of undefined"
 
 
 # 2021/5/7
